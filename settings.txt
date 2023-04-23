@@ -1,0 +1,6 @@
+client_encoding=ascii
+users.txt_encoding=utf8
+commandline_encoding=utf8
+fallback_encoding=utf8
+send_packetsize=64
+recieve_packetsize=512
